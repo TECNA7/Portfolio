@@ -1,0 +1,31 @@
+How AI Works in a Startup vs a College Institution
+By Kripa Lamichhane
+For me, balancing life between being a full-time student and a Technical Product Manager has made me see AI from two very different worlds. In college, AI feels like an idea we’re still trying to trust. At my startup, it’s a thing we depend on every day. While both ways it looks like I’m using AI but what that means is very different.
+Learning AI in College
+In class, AI lives in theory and curiosity. I use chatbots’ “Study & Learn” features to understand concepts, or Perplexity AI to find recent articles for my economics assignments. Sometimes I’ll even ask an AI tool to review my work or grade it, just to see what I missed.
+AI in college feels like a study buddy. There’s no pressure to be perfect, it’s about exploring how things work, asking endless Wh-questions, and getting lost in the process. The tradeoff is speed, it takes longer. I test an idea, reflect, maybe discuss it in a group, and only then move forward.
+Chip Huyen, in AI Engineering, talks about this kind of space as where we can learn the system before building the system. That freedom to explore without consequences is what college gives me. 
+Working with AI in a Startup
+At FSH Technologies, we build configurable software for municipalities across the U.S., helping cities digitize their processes while keeping people and workflows at the center.
+Here, AI isn’t something we talk about but it’s something we use. I work with internal AI agents to handle repetitive tasks, generate fake data for testing my theories, and ethically scrape information. I also built a Notion space for our company and trained Notion AI to sound like me. It's a new concept to have an AI version of myself documenting updates, but it saves time.
+Our company is fast-paced which means speed matters. If something breaks, there’s no time to write a paper about it. We debug, tweak, deploy, and move on. As Chip Huyen describes in Chapter 2 (The AI Development Loop), it’s about shortening the iteration cycle — shipping now, improving later.
+That’s the biggest contrast with academia where in a startup, AI has to work today. Data access is messy, deployment is constant, and decisions are fast. There’s no “perfect” model, only useful ones which again keep changing fast. 
+The Difference
+In college, I use AI to think better.
+At the startup, I use AI to build faster.
+In one place, I value reflection, and in the other I focus on action. It’s also because of how different both areas are, like how Colleges and Universities focus on understanding and reproducibility whereas startups care about speed and results. They equally matter but are in completely different directions. 
+Living in Both Worlds
+My vision towards AI has changed completely as I work in both domains concurrently. I don’t see AI as a mystery nor as a trend. It's that intersectional point which connects data, models, and human decisions.
+I try to bring a student mindset by questioning how things work and why we do them in FSH Technologies. And, In school I try to bring my startup mindset by focusing on what’s practical and keep improving.
+Chip Huyen writes in AI Engineering (pp. 112–115) about “closing the gap between modeling and reality.” That’s exactly what living in both environments feels like. I get to live in that space between and experience the different parts of AI .
+
+Terms by IBM: 
+Chatbots : A chatbot is a computer program that simulates human conversation with an end user. Not all chatbots are equipped with artificial intelligence (AI), but modern chatbots increasingly use conversational AI techniques such as natural language processing (NLP) to understand user questions and automate responses to them. 
+AI Agents : An artificial intelligence (AI) agent is a system that autonomously performs tasks by designing workflows with available tools.
+
+Citation: 
+Huyen, Chip. AI Engineering. O’Reilly Media, 2024.
+
+
+ 
+
