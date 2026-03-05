@@ -42,13 +42,10 @@ const About = () => {
                     Product Management
                   </span>
                   <span className="bg-primary text-primary-foreground px-3 py-1 rounded-full text-sm">
-                    Full-Stack Development
+                    Data Analyst
                   </span>
                   <span className="bg-secondary text-secondary-foreground px-3 py-1 rounded-full text-sm">
                     AI Solutions
-                  </span>
-                  <span className="bg-accent text-accent-foreground px-3 py-1 rounded-full text-sm">
-                    Data Science
                   </span>
                 </div>
               </div>
