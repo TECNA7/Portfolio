@@ -22,7 +22,7 @@ const Home = () => {
             Hi, I'm <span className="gradient-text">Kripa </span>
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 leading-relaxed">
-            Technical Product Manager passionate about{" "}
+            I am passionate about{" "}
             <TypingAnimation
               words={[
                 "innovation",
