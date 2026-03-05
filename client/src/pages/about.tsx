@@ -63,7 +63,7 @@ const About = () => {
                   </li>
                   <li className="flex items-center gap-3" data-testid="experience-development">
                     <Code className="text-primary w-5 h-5" />
-                    <span>Co-Founder of RateMySemesterAbroad.com</span>
+                    <span>Data Mentor at Q-center</span>
                   </li>
                   <li className="flex items-center gap-3" data-testid="experience-branding">
                     <Palette className="text-primary w-5 h-5" />
