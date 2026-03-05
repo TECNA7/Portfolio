@@ -32,7 +32,7 @@ const About = () => {
             <SectionReveal>
               <div className="bg-card p-8 rounded-2xl shadow-lg card-hover">
                 <h3 className="font-serif text-2xl font-semibold mb-4 text-card-foreground">
-                  Technical Product Manager & Student
+                 Data Product Manager
                 </h3>
                 <p className="text-muted-foreground leading-relaxed mb-4">
                   I'm a Computer Science major at Bryn Mawr College with a passion for AI and product management. I love building innovative solutions that bridge technology and user needs.
