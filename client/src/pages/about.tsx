@@ -35,7 +35,7 @@ const About = () => {
                   Technical Product Manager & Student
                 </h3>
                 <p className="text-muted-foreground leading-relaxed mb-4">
-                  I'm a Computer Science major at Bryn Mawr College with a passion for AI and product management. Currently working as a Technical/AI Product Manager at FSH Technologies, I love building innovative solutions that bridge technology and user needs.
+                  I'm a Computer Science major at Bryn Mawr College with a passion for AI and product management. I love building innovative solutions that bridge technology and user needs.
                 </p>
                 <div className="flex flex-wrap gap-2">
                   <span className="bg-accent text-accent-foreground px-3 py-1 rounded-full text-sm">
